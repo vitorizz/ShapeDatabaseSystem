@@ -31,6 +31,7 @@ Files
 shapes.py: Contains the shape classes with their properties and methods.
 operations.py: Provides functions for shape processing and file operations.
 shapedb.py: The main script for user interaction and program execution.
+
 Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
