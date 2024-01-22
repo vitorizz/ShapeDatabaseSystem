@@ -16,7 +16,7 @@ No additional libraries are required to run this program. Just ensure you have P
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/ShapeManagerPy.git
+git clone https://github.com/vitorizz/ShapeManagerPy.git
 Navigate to the cloned directory:
 bash
 Copy code
