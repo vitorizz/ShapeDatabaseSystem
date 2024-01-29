@@ -5,7 +5,7 @@ class Shape:
         Shape.id += 1
         # self.instance_id will be a class specific variable, each class will have their own value
         self.instance_id = Shape.id
-        # I think, check later, but I think self.id would just refer to shapes id counter there
+        
         self.name = "Shape"
 
     def perimeter(self):
